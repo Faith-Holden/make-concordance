@@ -1,0 +1,140 @@
+Concordance
+_______________________
+Word:  Line(s)
+All:    4 
+Also:    22 26 
+Because:    20 26 
+EOF:    24 
+Every:    19 
+Exercises:    15 
+Keeping:    17 
+Subsection:    1 5 10 13 
+System:    11 
+TextIO:    10 23 24 
+That:    14 
+The:    5 8 11 12 23 
+WordCount:    13 20 22 
+Write:    8 
+You:    9 11 
+add:    16 20 
+after:    24 
+ahead:    23 
+all:    24 
+along:    17 
+also:    5 14 
+and:    3 9 12 16 21 
+are:    6 
+been:    25 
+book:    1 
+can:    5 8 9 13 
+cannot:    21 
+character:    19 23 
+characters:    21 24 
+common:    26 
+concerns:    1 
+concordance:    2 5 6 8 9 17 26 
+count:    21 
+create:    5 8 
+creating:    4 
+current:    17 
+data:    9 10 
+detect:    22 
+difference:    6 
+document:    2 3 4 8 
+does:    22 
+don:    26 
+each:    3 16 18 
+encounter:    16 19 
+end:    18 21 22 24 
+ends:    20 
+every:    2 3 
+exactly:    22 
+example:    1 
+file:    9 16 18 21 23 24 25 
+files:    12 14 
+find:    21 
+for:    1 2 3 4 
+from:    8 10 13 14 
+function:    23 
+gives:    3 
+has:    14 
+have:    19 25 27 
+how:    13 
+ignores:    20 
+include:    26 27 
+index:    1 4 
+indexing:    10 
+input:    9 11 14 18 21 24 
+instead:    11 
+integers:    6 
+java:    13 20 22 
+length:    27 
+less:    27 
+line:    3 4 6 17 18 20 21 
+lines:    20 
+lists:    2 
+look:    23 
+make:    11 
+making:    1 2 
+marked:    19 
+model:    13 
+modified:    10 
+need:    11 20 22 
+newline:    19 
+next:    23 
+not:    27 
+number:    3 17 20 
+numbers:    6 7 17 
+occurs:    3 4 
+one:    14 17 20 
+only:    6 
+out:    11 
+output:    9 12 
+page:    6 
+parts:    18 
+peek:    23 
+presented:    5 
+problem:    1 2 18 
+process:    21 
+program:    8 12 13 14 21 
+rather:    6 
+read:    8 16 25 
+reads:    14 
+real:    6 
+related:    2 
+returns:    24 
+run:    12 
+same:    22 
+sample:    12 
+selected:    12 
+should:    8 9 12 
+static:    11 
+subroutine:    14 
+subroutines:    4 10 11 
+take:    16 
+than:    6 27 
+that:    3 5 6 8 14 16 27 
+these:    11 
+this:    19 
+time:    19 
+track:    17 
+trickiest:    18 
+use:    9 13 
+used:    5 13 23 
+useful:    14 
+user:    12 
+value:    24 
+want:    16 
+way:    22 
+were:    5 
+when:    12 
+where:    4 
+which:    23 
+will:    11 22 
+with:    17 
+word:    3 4 14 16 26 
+words:    27 
+write:    10 
+written:    9 
+you:    16 19 20 22 
+your:    21 26 
